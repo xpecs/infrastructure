@@ -10,7 +10,7 @@
       "id": "i-0xyza9876bcde5432",
       "region": "eu-west-1",
       "status": "running",
-      "last_sync": "2026-07-23T21:00:00Z"
+      "last_sync": "2026-07-23T21:19:51Z"
     },
     {
       "id": "i-0jklo1122mnpq3344",
@@ -19,5 +19,5 @@
       "last_sync": "2026-07-23T21:00:00Z"
     }
   ],
-  "last_audit": "2026-07-23T21:00:00Z"
+  "last_audit": "2026-07-23T21:19:51Z"
 }
