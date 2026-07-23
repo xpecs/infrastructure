@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "i-0abcd1234efgh5678",
+      "region": "us-east-1",
+      "status": "running",
+      "last_sync": "2026-07-23T21:00:00Z"
+    },
+    {
+      "id": "i-0xyza9876bcde5432",
+      "region": "eu-west-1",
+      "status": "running",
+      "last_sync": "2026-07-23T21:00:00Z"
+    },
+    {
+      "id": "i-0jklo1122mnpq3344",
+      "region": "ap-southeast-2",
+      "status": "stopped",
+      "last_sync": "2026-07-23T21:00:00Z"
+    }
+  ],
+  "last_audit": "2026-07-23T21:00:00Z"
+}
